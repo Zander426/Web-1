@@ -1,0 +1,39 @@
+.header {
+    background-color: aqua;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.content{
+    margin: 15px;
+    padding: 20px;
+    border: 20px solid black;
+    border-radius: 5px;
+}
+
+
+.footer{
+    background-color: white;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.about{
+    background-color: brown;
+    padding: 20px;
+    text-align: center;
+}
+
+.People{
+    background-color: blueviolet;
+    padding: 20px;
+    text-align: left;
+}
+body{
+    background-color: burlywood;
+}
